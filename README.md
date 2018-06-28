@@ -1,2 +1,0 @@
-# projectN
-闪屏
